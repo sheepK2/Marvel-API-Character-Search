@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    font-size: 30px;
+    display: inline-block;
+}
+
+button {
+    font-size: 20px;
+}
+
+.well {
+    text-align: left;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    margin: unset;
+}
+
+p {
+    margin-top: unset;
+    margin-bottom: 40px;
+}
